@@ -1,0 +1,36 @@
+{"frames": {
+
+"ball.png":
+{
+	"frame": {"x":0,"y":0,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+"court.png":
+{
+	"frame": {"x":16,"y":0,"w":758,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":758,"h":512},
+	"sourceSize": {"w":758,"h":512}
+},
+"paddle.png":
+{
+	"frame": {"x":774,"y":0,"w":16,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":64},
+	"sourceSize": {"w":16,"h":64}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pong_stuff.png",
+	"format": "RGBA8888",
+	"size": {"w":790,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d0d55482373a0dd1097e41e217e836f0:de62165778609326a6462bb4bb4c4f67:51f1fbbb3650f2e8178aea17d1350155$"
+}
+}
